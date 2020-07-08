@@ -16,7 +16,7 @@ This study only uses Foursquare location data. The restaurants within a radius o
 9. how many people have added the restaurant to their list.
 
 ## Methodology
-#### Data Cleaning
+#### Data Acquisition and Cleaning
 
 #### Random Forest Prediction
 
