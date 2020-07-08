@@ -8,7 +8,7 @@ This study only uses Foursquare location data. The restaurants within a radius o
 1. whether this restaurant is verified (binary variables);
 2. distance from the university;
 3. located county (binary variables for each county);
-4. whether there is any delievery provider (binary variables);
+4. whether there is any delivery provider (binary variables);
 5. food categories (binary variables for each category);
 6. Count of photos of this restaurant that are public;
 7. price tier of the restaurant;
