@@ -7,7 +7,7 @@ Popularity has become a really important criterion when we make a choice. It als
 This study only uses Foursquare location data. The restaurants within a radius of 10 kilometers from a university in New York city are studied. The dependent variable is the rating of a restaurant. The predictors are:
 1. whether this restaurant is verified (binary variables);
 2. distance from the university;
-3. located county (binary variables for each county);
+3. located district (binary variables for each district);
 4. whether there is any delivery provider (binary variables);
 5. food categories (binary variables for each category);
 6. Count of photos of this restaurant that are public;
@@ -16,14 +16,14 @@ This study only uses Foursquare location data. The restaurants within a radius o
 9. how many people have added the restaurant to their list.
 
 ## Methodology
-### Data Cleaning
+#### Data Cleaning
 
-### Random Forest Prediction
+#### Random Forest Prediction
 
 ## Results
-### Training/Testing Accuracy
+#### Training/Testing Accuracy
 
-### Variable Importance ranking
+#### Variable Importance ranking
 
 ## Discussion
 
