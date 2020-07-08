@@ -13,7 +13,7 @@ This study only uses Foursquare location data. The restaurants within a radius o
 6. Count of photos of this restaurant that are public;
 7. price tier of the restaurant;
 8. count of reviews;
-9. how many people have added the restaurant to their list.
+9. how many people have added the restaurant to their lists.
 
 ## Methodology
 #### Data Acquisition and Cleaning
