@@ -35,5 +35,7 @@ After getting the best model via hyperparameter tuning, we use the model on the 
 ![Variable Importances](https://github.com/YuhaoGit/IBM-data-science-course/blob/master/v.png)
 
 ## Discussion
+We see that the top 4 predictors are 'listed.count', 'photos.count', 'tips.count' and 'distance'. Therefore, it indicates that the operators of restaurants should pay more attention to their online operation and location. However, to figure out what specific actions should be taken, we have to further study the interpretation of the machine learning model.
 
 ## Conclusion
+In this project, we studied the common features of some popular restaurants in Texas using a random forest regression model. The result indicates that the important features are: 1. how many people have added the restaurant to their list; 2. number of photos that are public online; 3. number of tips online; 4. the distance from the chosen university.
