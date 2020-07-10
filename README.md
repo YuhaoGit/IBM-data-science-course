@@ -32,7 +32,7 @@ First, a base random forest model is trained. Then a grid search is applied to f
 After getting the best model via hyperparameter tuning, we use the model on the tetsing data. The accuracy is 89.88%.
 
 #### Variable Importance ranking
-[Variable Importances](http://url/to/img.png)
+[Variable Importances](http://url/to/v.png)
 
 ## Discussion
 
