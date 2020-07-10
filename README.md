@@ -18,7 +18,7 @@ The dependent variable is the rating of a restaurant. The predictors are:
  The data is divided into two parts, 75% for training and 25% for testing.
 
 ## Methodology
-#### Random Forest Prediction
+#### Random Forest Regression
 Random forest is a widely used machine learning approach to classification, but it also works very well in regression. The main reasons I chose random forest are: 
    1. It is a non-parametric method using decision trees to fit the data, which provides certain extent of nonlineraity. 
    2. Random forest algorithm reduces the correlation between each decision tree by using only part of the predictors for each tree.
