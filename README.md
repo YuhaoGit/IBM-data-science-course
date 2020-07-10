@@ -20,10 +20,10 @@ The dependent variable is the rating of a restaurant. The predictors are:
 ## Methodology
 #### Random Forest Regression
 Random forest is a widely used machine learning approach to classification, but it also works very well in regression. The main reasons I chose random forest are: 
-   1. It is a non-parametric method using decision trees to fit the data, which provides certain extent of nonlineraity. 
+   1. It is a non-parametric method using decision trees to fit the data, which provides certain extent of nonlinearity. 
    2. Random forest algorithm reduces the correlation between each decision tree by using only part of the predictors for each tree.
    3. It has less hyperparameters to tune.
-   4. We can visualize the trees and acquire the importances of each variable.
+   4. We can visualize the trees and acquire the importance of each variable.
    
 First, a base random forest model is trained. Then a grid search is applied to find the best hyperparameter setting, and the computation time is saved by using "RandomizedSearchCV", which is a cross-validation based hyperparameter tuning function from scikit-learn library.
 
